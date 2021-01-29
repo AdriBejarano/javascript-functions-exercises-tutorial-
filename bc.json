@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://d8e39650-2064-4bf7-bf66-b7e772aed2d5.ws-us03.gitpod.io",
+    "address": "https://b6c3c4d9-a42a-45ee-8491-836a8d3bc0f1.ws-us03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -46,7 +46,7 @@
         {
             "slug": "02-Hello-World",
             "title": "02-Hello-World",
-            "done": false,
+            "done": true,
             "path": "exercises/02-Hello-World",
             "translations": [
                 "es",
